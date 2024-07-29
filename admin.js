@@ -1,6 +1,6 @@
-let admin = true
+let admin = false
 
-if (admin===true){
-    console.log('access granted')
+if (admin===false){
+    console.log('access not granted')
 
 }
